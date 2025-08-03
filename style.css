@@ -254,7 +254,7 @@ footer a:hover {
     color: rgb(160, 160, 160);
 }
 .resourceContainer {
-    padding: 20px 100px 0px 100px;
+    padding: 20px 100px 15px 100px;
 }
 .resourceSection {
     border-radius: 20px;
@@ -306,7 +306,7 @@ footer a:hover {
         margin-bottom: 25px;
     }
     .resourceContainer {
-    padding: 20px 50px 0px 50px;
+    padding: 20px 50px 15px 50px;
     }
     
 }
@@ -334,6 +334,6 @@ footer a:hover {
         gap: 0px;
     }
     .resourceContainer {
-    padding: 20px 15px 0px 15px;
+    padding: 20px 15px 15px 15px;
     }
 }
